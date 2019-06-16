@@ -1,6 +1,7 @@
 # R
 
 Opis danych
+
 Do projektu zostały załączone dwa pliki „CNV.txt” oraz  „no_CNV.txt”. 
 Pierwszy plik zawiera zestaw danych na temat genów leżacych na obszarach podlegających zmienności liczby kopii. Natomiast w drugim pliku znajdują się dane pochodzące z regionów oznaczonych jako wykluczone ze zmienności liczby kopii.
 W obu plikach znajdują się tablice. 
@@ -11,6 +12,7 @@ Dla ułatwienia plik „CNV.txt” nazywać będę później CNV, a plik „no_C
 
 
 Cel projektu
+
 Celem projektu jest analiza dancyh zamieszczoncyh w załączoncyh dwóch plikach – analiza ekotypów w celu wizualizacji naturalnej zmienności strukturalnej genomu 
 A. Thaliana.
 Odnalezienie szczególnie odstających ekotypów (prób) od pozostałych.
